@@ -7,5 +7,3 @@ Link do Desafio: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desa
 ## Próximos Recursos
 
 - Responsividade [ ]
-- Nas redes sociais, adicionar os links e talvez um efeito. [ ]
-- Adicionar Menu Hamburguer [ ]
